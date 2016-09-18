@@ -1,3 +1,5 @@
+[![Go Report Card](https://goreportcard.com/badge/github.com/andrzejewsky/go-queue)](https://goreportcard.com/report/github.com/andrzejewsky/go-queue)
+
 A simple implementation of queue including basic operations such as Push & Pop.
 For now, available implementation has been created only for Redis
 
