@@ -3,7 +3,7 @@ package queues
 import (
 	"errors"
 
-	"github.com/andrzejewsky/queue/queues/redis"
+	"github.com/andrzejewsky/go-queue/queues/redis"
 )
 
 //Queue interface for each storages

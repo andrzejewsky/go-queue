@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/andrzejewsky/queue/queues"
+	"github.com/andrzejewsky/go-queue/queues"
 )
 
 func main() {
